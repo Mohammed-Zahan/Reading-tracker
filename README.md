@@ -111,4 +111,4 @@ Enter the number corresponding to the action you want to perform and follow the 
 
 ## Author
 
-Built as a Java OOP learning project.
+Built as a Java OOP learning project by me and my friend.
